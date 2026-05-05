@@ -1,12 +1,12 @@
 # EcoTrace ⚡️
 
 
-#"EcoTrace Idea" :
-##The Mastermind of Sustainable Educational Facilities
+# "EcoTrace Idea" :
+## The Mastermind of Sustainable Educational Facilities
 An AI-driven proactive system for resource management and educational continuity.
 
 
-#Tools 🤖 :
+# Tools 🤖 :
 ## Python - Iot - Open Source - Ai & Data libraries ...
 
 
